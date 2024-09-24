@@ -2,7 +2,6 @@
 
 # 👋 Hi, I’m Venkat Biyyapu!
 
-![](https://komarev.com/ghpvc/?username=venkatbiyyapu&abbreviated=true)
 
 🎓 **About Me:**  
 I'm a computer science professional with a Master's degree from the University of Texas at Dallas (GPA: 3.89). With 1.7 years of experience, I specialize in data analysis, software development, and machine learning.
