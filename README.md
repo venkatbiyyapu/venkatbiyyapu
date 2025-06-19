@@ -37,7 +37,7 @@ Published research on Object Detection using OpenCV and conducted studies on Lar
 
 🔧 **Technical Skills:**  
 - **Languages:** 
-  - 🐍 Python, 💻 C/C++, 🌐 HTML+CSS, ⚙️ JavaScript, 🖥️ C#, 📊 R, ☕ Java
+  - 🐍 Python, React, TypeScript, 💻 C/C++, 🌐 HTML+CSS, ⚙️ JavaScript, 🖥️ C#, 📊 R, ☕ Java
 
 - **Tools & Libraries:** 
   - 📊 Power BI, 🐞 Selenium, 📈 Pandas, 🔢 NumPy, ⚛️ ReactJS, 🚀 Node.js, 🔗 Express.js, ☁️ Hadoop, ⚡ Spark,
